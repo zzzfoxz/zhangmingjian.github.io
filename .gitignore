@@ -1,2 +1,3 @@
 .worktrees/
 agent_planning_with_files_cache/
+.DS_Store
